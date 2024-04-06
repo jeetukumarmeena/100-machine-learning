@@ -1,1 +1,2 @@
-# 100-machine-learning
+# 100-machine-learning[data_science_job.csv](https://github.com/jeetukumarmeena/100-machine-learning/files/14894175/data_science_job.csv)
+day1.Hadding missing value by the help of CCA(complete-case analysis)
